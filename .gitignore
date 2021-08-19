@@ -1,3 +1,7 @@
+binary.modified_timestamps
+chroot.files
+live-image-amd64.files
+
 binary/
 binary*.iso
 binary*.img
