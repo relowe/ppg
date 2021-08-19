@@ -85,3 +85,11 @@ qemu-utils
 gdb-multiarch
 gcc-riscv64-linux-gnu
 binutils-riscv64-linux-gnu
+libgmp-dev
+gmp-doc
+libdb-dev
+libncurses-dev
+ncurses-doc
+ncurses-hexedit
+ncurses-examples
+ucblogo
