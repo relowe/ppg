@@ -18,12 +18,6 @@ cache/
 chroot/
 chroot.packages.*
 
-config/binary
-config/bootstrap
-config/chroot
-config/common
-config/source
-
 config/control
 
 source/
