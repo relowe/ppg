@@ -93,3 +93,9 @@ ncurses-doc
 ncurses-hexedit
 ncurses-examples
 ucblogo
+libfltk1.3-dev
+fltk1.3-doc
+fluid
+fltk1.3-games
+libgtk-3-dev
+libx11-dev
