@@ -1,0 +1,5 @@
+#!/bin/sh
+
+apt-get -y install apt-transport-https
+apt-get -y update
+apt-get -y install dotnet-sdk-6.0

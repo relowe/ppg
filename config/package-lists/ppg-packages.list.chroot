@@ -99,3 +99,5 @@ fluid
 fltk1.3-games
 libgtk-3-dev
 libx11-dev
+expect
+ed
